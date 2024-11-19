@@ -14,8 +14,8 @@ ls ~/.ssh/id_*.pub
 ssh-keygen -t ed25519 -C "your_email@google.com"
 ```
 
-> [!info] 
-> Saisissez votre email Veltys à la place de `your_email@google.com`
+> **Info** :
+> saisissez votre email Veltys à la place de `your_email@google.com`
 
 Appuyez simplement sur 'Entrée' pour accepter l'emplacement de fichier par défaut et les options de phrase secrète. Après avoir généré la clé, elle sera enregistrée dans `~/.ssh/`.
 
