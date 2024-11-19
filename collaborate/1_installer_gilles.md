@@ -6,6 +6,7 @@ Gilles, c'est l'organisateur des vacances, le grand planificateur. Personne ne l
 
 ![Book logo](documente-marcel/assets/third-party-windows-git.png)
 
+
 2. Activez le gestionnaire d'identifiants Gilles. Vous pouvez vérifier cela pour les installations existantes en exécutant la commande ci-dessous. Cela devrait afficher `manager`.
 
 ```bash
