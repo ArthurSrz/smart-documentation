@@ -9,7 +9,8 @@ Pour activer l'agent de Gilles :
 
 1. Ouvrez le PowerShell en tant qu'administrateur 
 
-![[powershell_admin.png|400x400]]
+![powershell_admin](https://github.com/user-attachments/assets/85b6fcd8-7243-465e-94b6-9d52c24563cf)
+
 2. Démarrez manuellement le SSH agent avec les commandes suivante : 
 
 ```powershell
