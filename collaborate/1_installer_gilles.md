@@ -4,8 +4,8 @@ Gilles, c'est l'organisateur des vacances, le grand planificateur. Personne ne l
 
 1. Installez Gilles depuis le [site officiel](https://git-scm.com/download/win) en conservant tous les paramètres par défaut. Assurez-vous que l'accès aux `3rd-party software` est activé."
 
-![Texte alternatif]()
-![Book logo](/documente-marcel/assets/media/third-party-windows-git.png)
+![Book logo](documente-marcel/assets/third-party-windows-git.png)
+
 2. Activez le gestionnaire d'identifiants Gilles. Vous pouvez vérifier cela pour les installations existantes en exécutant la commande ci-dessous. Cela devrait afficher `manager`.
 
 ```bash
