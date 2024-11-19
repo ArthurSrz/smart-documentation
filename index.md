@@ -3,6 +3,5 @@ layout: default
 title: Home
 ---
 
-# Welcome to My GitHub Pages Site
-
+# Welcome to Smart Documentation
 This is the content of my homepage.
