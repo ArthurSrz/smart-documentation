@@ -3,5 +3,6 @@ layout: default
 title: Home
 ---
 
-# Welcome to Smart Documentation
-This is the content of my homepage.
+# Documente Marcel
+
+1. Pour rejoindre Marcel :  [accroche toi](/accroche_toi_marcel)
