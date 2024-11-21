@@ -15,7 +15,7 @@ Pour cela :
 git clone git@github.com:ArthurSrz/documente-marcel.git
 ```
 
-Et voilà, vous y êtes, le club de Cochinchines est à vous ! 
+Et voilà, vous y êtes, le club Marcel est à vous ! 
 
 
 [La suite -->](7_monter_le_club.md)
