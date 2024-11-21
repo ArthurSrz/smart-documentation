@@ -1,4 +1,4 @@
-# 12.Faites profiter de votre conversation à tout le monde
+# 12. Faites profiter de votre conversation à tout le monde
 
 Vous seriez bien égoiste de ne pas partager le fruit de votre conversation, votre échange doit être entendu de tous. 
 
