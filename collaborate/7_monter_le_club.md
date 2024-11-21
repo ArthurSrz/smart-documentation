@@ -1,6 +1,6 @@
 # 7. Suprise : le club est un batiment en kit, il faut le monter...
 
-Nouvelle surprise : le club de Cochinchines est en kit ! A construire vous-mêmes, les tommies direz _Do it Yourself_ ! 
+Nouvelle surprise : le club Marcel est en kit ! A construire vous-mêmes, les tommies direz _Do it Yourself_ ! 
 
 Pour cela : 
 
