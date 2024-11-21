@@ -1,0 +1,18 @@
+# to exclude Obsidian's settings (including plugin and hotkey configurations)
+.obsidian/
+
+# to exclude any sketch made on obsidian
+.excalidraw/
+
+# to exclude OS settings and caches
+.trash/
+.DS_Store
+
+# to exclude any programming environment
+**/*env*/
+**/env*/
+**/*env*/
+
+# Exclude all __pycache__ folders
+__pycache__/
+**/__pycache__/
