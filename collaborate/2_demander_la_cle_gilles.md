@@ -1,8 +1,10 @@
 # Récupérer la clé pour communiquer avec Gilles. 
 
-On vous disait que personne ne comprenait Gilles. Tant et si bien qu'il faut une clé pour le comprendre. 
+Pour pouvoir vous réserver votre place au "club de Cochinchines", Gilles va devoir créér une clé. Cette clé est le seul moyen de pouvoir communiquer avec le club de Cochinchines. Le seul et l'unique moyen. 
 
-1. Pour voir si vous disposez déjà d'une clé pour parler avec Gilles, insérez la commande suivante dans votre terminal :
+Pour demander à Gilles de créer une clé : 
+
+1. Vérifiez si vous disposez déjà d'une clé. Pour cela, insérez la commande suivante dans votre terminal :
 
 ```bash
 ls ~/.ssh/id_*.pub
@@ -15,7 +17,7 @@ ssh-keygen -t ed25519 -C "your_email@google.com"
 ```
 
 > **Info** :
-> saisissez votre email Veltys à la place de `your_email@google.com`
+> saisissez votre email Veltys à la place de `your_email@google.com`. Eh oui, il faut bien que le club de Cochinchines puisse vous contacter si jamais la suite René Cotty n'est plus disponible. 
 
 Appuyez simplement sur 'Entrée' pour accepter l'emplacement de fichier par défaut et les options de phrase secrète. Après avoir généré la clé, elle sera enregistrée dans `~/.ssh/`.
 
