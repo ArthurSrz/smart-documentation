@@ -1,6 +1,6 @@
 # 6. Rendez-vous au club
 
-Vous avez fait vos bagages, mis le dernier guide Michelin dans votre malette, il ne reste plus qu'à vous rendre au club de Cochinchines, avec Simone, votre chère et tendre. 
+Vous avez fait vos bagages, mis le dernier guide Michelin dans votre malette, il ne reste plus qu'à vous rendre au club Marcel, avec Simone, votre chère et tendre. 
 
 Pour cela : 
 
