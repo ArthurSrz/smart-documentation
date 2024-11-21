@@ -1,4 +1,4 @@
-# Testez la ligne avec le club. 
+# Testez la ligne de communication avec le club. 
 
 Maintenant, vous allez pouvoir tester la ligne de communication avec le club. 
 
