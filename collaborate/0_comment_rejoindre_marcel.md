@@ -1,7 +1,7 @@
 # Comment rejoindre le club Marcel ? 
 
 1. [Installez Gilles](1_installer_gilles.md)
-2. [Demandez à Gilles de générer une clé pour pouvoir communiquer avec le club de Marcel](2_demander_cle_gilles.md)
+2. [Demandez à Gilles de générer une clé pour pouvoir communiquer avec le club Marcel](2_demander_cle_gilles.md)
 3. [Donnez la clé à Hubert, l'agent du club](3_donner_la_cle_hubert.md)
 4. [Donnez la clé au club, car Hubert a complètement oublié de le faire](4_donner_cle_club.md)
 5. [Testez la ligne de communication avec le club Marcel](5_tester_ligne_club.md)
