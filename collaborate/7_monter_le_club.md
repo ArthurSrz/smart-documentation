@@ -1,4 +1,4 @@
-# Suprise : le club est un batiment en kit, il faut le monter !
+# Suprise : le club est un batiment en kit, il faut le monter...
 
 Nouvelle surprise : le club de Cochinchines est en kit ! A construire vous-mêmes, les tommies direz _Do it Yourself_ ! 
 
