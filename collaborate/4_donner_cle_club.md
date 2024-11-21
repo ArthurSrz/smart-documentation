@@ -21,7 +21,7 @@ Get-Content ~/.ssh/id_ed25519.pub
 
 <img width="511" alt="image" src="https://github.com/user-attachments/assets/6da7f402-081d-4126-a8a1-1f7da17f01c1">
 
-C'est bon, maintenant vous êtes certain que Hubert a bien donné les clés au club de Cochinchines. La ligne de communication entre vous et le club est bien ouverte. Vous allez pouvoir leur demander comment est leur blanquette.  
+C'est bon, maintenant vous êtes certain que Hubert a bien donné la clés au club Marcel. La ligne de communication entre vous et le club est bien ouverte. Vous allez pouvoir leur demander comment est leur blanquette.  
 
 
 [La suite -->](5_tester_ligne_club.md)
