@@ -1,3 +1,3 @@
 # Documente Marcel
 
-Parce que documenter est une panacée.  
+Il faut documenter Marcel. 
