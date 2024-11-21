@@ -16,3 +16,5 @@ Il vous faut donc :
 ```bash
 git config credential.helper
 ```
+
+[La suite -->](2_demander_cle_gilles.md)
