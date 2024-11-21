@@ -1,4 +1,4 @@
-# Paramétrez le traducteur
+# 10. Paramétrez le traducteur
 
 Calmons nos ardeurs, le traducteur ne fonctionne pas tout seul, il faut le paramétrer pour s'assurer qu'il traduise bien votre conversation et pas celle du voisin. Sinon vous n'allez pas vous comprendre avec Sing-To, marchand d'opium rencontré autour d'un cognac, 40 ans d'âge.  
 
@@ -25,4 +25,6 @@ Rendez-vous sur l'extension Git, et paramétrez-le comme suit :
 ![git_extension_7](https://github.com/user-attachments/assets/65389ef9-fa39-4dc4-aeeb-b9a7410c768d)
 
 
-Vous allez maintenant pou
+Vous allez maintenant pouvoir parler à tout le monde
+
+[La suite -->](11_lancer_conversation.md)
