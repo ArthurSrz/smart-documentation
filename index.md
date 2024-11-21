@@ -32,4 +32,4 @@ Une définition d'un système de documentation intelligent :
 ## Comment utiliser documente-marcel ? 
 
 1. Vous pouvez rejoindre le club Marcel :  [je veux oui nom d'un fripon](collaborate/0_comment_rejoindre_marcel.md)
-2. Pour comprendre Marcel : [je veux pas lire Proust, mais Marcel pourquoi pas](lis_marcel.md)
+2. Pour comprendre Marcel : [je veux pas lire Proust, mais Marcel pourquoi pas](LISMARCEL.md)
