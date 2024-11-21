@@ -1,4 +1,4 @@
-# Invitez les vacanciers dans votre club.
+# ...et inviter les vacanciers dans votre club.
 
 Vous avez monté le club, maintenant il ne reste plus qu'à y mettre les vacanciers du monde entier. 
 
