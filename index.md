@@ -29,7 +29,7 @@ Une définition d'un système de documentation intelligent :
 * ...mais un système dans lequel la documentation de `marcel` s'intègre dans une structure globale, de manière à ce que la documentation de `marcel` puisse dialoguer avec celle de `michel`, et avec celle de `noel`, etc. 
 * un système dans lequel la documentation est donc **fédérée**. Pas centralisée, pas partagée, mais **fédérée**. Une forme de "un pour tous et tous pour un" du XXIème siècle si vous voulez.
 
-## Comment utiliser documente-marcel ? 
+## Comment utiliser `documente-marcel` ? 
 
 1. Vous pouvez rejoindre le club Marcel :  [je veux oui ! nom d'un fripon !](collaborate/0_comment_rejoindre_marcel.md)
 2. Pour comprendre Marcel : [je veux pas lire Proust, mais Marcel pourquoi pas](LISMARCEL.md)
