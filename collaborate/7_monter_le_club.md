@@ -1,4 +1,4 @@
-# Suprise : le club est un batiment en kit, il faut le monter...
+# 7. Suprise : le club est un batiment en kit, il faut le monter...
 
 Nouvelle surprise : le club de Cochinchines est en kit ! A construire vous-mêmes, les tommies direz _Do it Yourself_ ! 
 
@@ -11,3 +11,5 @@ Pour cela :
     </a>
 
 Avec Obsidian, vous allez pouvoir monter le club. 
+
+[La suite -->](8_inviter_les_vacanciers.md)
