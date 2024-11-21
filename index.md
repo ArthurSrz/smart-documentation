@@ -18,7 +18,7 @@ Documenter, c'est difficile. Documenter, ça intéresse peu. Mais sans documenta
 * Sans documentation, on ne peut pas savoir d'où vient la donnée et où elle va
 * Sans documentation, on ne peut pas intégrer fiablement de nouvelles technologies au-dessus des données, comme l'Intelligence Artificielle, cette technologie _underground_, mais qui va très certainement être à la mode, un jour, peut être.
 
-## Qu'est-ce que `documente-marcel`
+## Qu'est-ce que `documente-marcel` ?
 
 Au-delà de vous apprendre quelque chose de nouveau, `documente-marcel` a vocation à être un socle, un _framework_ pour construire des systèmes de documentation intelligent. 
 
