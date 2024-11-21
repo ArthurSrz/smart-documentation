@@ -1,4 +1,4 @@
-# Branchez le traducteur universel
+# 9. Branchez le traducteur universel
 
 C'est bien mignon d'avoir tous les vacanciers du monde dans le club, encore faut-il se comprendre dans tout ce tintamarre. 
 
@@ -13,3 +13,6 @@ Pour cela, il va falloir ajouter le plug-in git d'Obsidian :
 4. Télécharger puis activez l'extension (`Enable`)
 
 Ca y est, vous aller pouvoir parler avec des américains, des soviétiques, des allemands de l'Est, des coréens du nord, des maoistes, des taosites, des burundi, des congolais belge, tout le monde. 
+
+
+[La suite -->](10_parametrer_traducteur.md)
