@@ -24,3 +24,4 @@ Appuyez simplement sur 'Entrée' pour accepter l'emplacement de fichier par déf
 Gilles vient bien de générer une clé qui va lui permettre de communiquer avec le club. 
 
 
+3. [La suite -->](3_donner_la_cle_hubert.md)
