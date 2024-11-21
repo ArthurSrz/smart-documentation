@@ -1,4 +1,4 @@
-# Relancez Hubert, 
+# Donnez la clé au club, car Hubert a complètement oublié de le faire 
 
 Hubert, l'agent du club, n'est pas exactement rigoureux et puis, le bal musette, ça use la mémoire. Il en oublie régulièrement de donner les clés au club. Vous allez donc devoir lui donner la clé au club vous même
 
