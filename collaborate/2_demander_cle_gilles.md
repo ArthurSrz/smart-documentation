@@ -1,4 +1,4 @@
-# Demander à Gilles de générer une clé pour pouvoir communiquer avec le club de Cochinchines . 
+# 2. Demander à Gilles de générer une clé pour pouvoir communiquer avec le club de Cochinchines . 
 
 Pour pouvoir vous réserver votre place au "club de Cochinchines", Gilles va devoir créér une clé. Cette clé est le seul moyen de pouvoir communiquer avec le club de Cochinchines. Le seul et l'unique moyen. 
 
@@ -24,4 +24,4 @@ Appuyez simplement sur 'Entrée' pour accepter l'emplacement de fichier par déf
 Gilles vient bien de générer une clé qui va lui permettre de communiquer avec le club. 
 
 
-3. [La suite -->](3_donner_la_cle_hubert.md)
+[La suite -->](3_donner_la_cle_hubert.md)
