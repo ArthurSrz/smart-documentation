@@ -1,4 +1,4 @@
-# Brancher le traducteur universel
+# Branchez le traducteur universel
 
 C'est bien mignon d'avoir tous les vacanciers du monde dans le club, encore faut-il se comprendre dans tout ce tintamarre. 
 
