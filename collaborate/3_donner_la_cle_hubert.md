@@ -1,10 +1,8 @@
-# Donner la clé à Hubert, l'agent de Gilles 
+# Donner la clé à Hubert, l'agent du club de Cochinchine
 
-On vous avait dit que Gilles était, en plus d'incompréhensible, difficile à joindre ? C'est pour ça qu'il a un agent, Hubert, auquel il faut communiquer la clé. 
+On ne vous l'avait pas encore dit, mais le club de Cochinchine est extrêmement prisé. Avec l'essor des congès payés, tout le monde veut s'y rendre, tant et si bien qu'il faut passer par un agent de réservation, Hubert, qui va s'occuper de transférer la clé généré par Gilles au club. 
 
-Hubert, l'agent de Gilles va s'occuper de faire passer la clé SSH à Gilles.
-
-Pour sonner et activer Hubert, qui ne lésine pas sur les siestes : 
+Pour sonner et réveiller Hubert, qui ne lésine pas sur les siestes : 
 
 1. Ouvrez le PowerShell en tant qu'administrateur 
 
@@ -25,3 +23,5 @@ Start-Service ssh-agent
 ```powershell
 ssh-add C:\Users\your_pseudonym\.ssh\id_ed25519
 ```
+
+Hubert a bien la clé en main. 
