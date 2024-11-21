@@ -1,4 +1,4 @@
-# Rendez-vous au club
+# 6. Rendez-vous au club
 
 Vous avez fait vos bagages, mis le dernier guide Michelin dans votre malette, il ne reste plus qu'à vous rendre au club de Cochinchines, avec Simone, votre chère et tendre. 
 
@@ -17,3 +17,5 @@ git clone git@github.com:ArthurSrz/documente-marcel.git
 
 Et voilà, vous y êtes, le club de Cochinchines est à vous ! 
 
+
+[La suite -->](7_monter_le_club.md)
