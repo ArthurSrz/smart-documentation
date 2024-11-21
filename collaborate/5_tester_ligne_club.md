@@ -1,4 +1,4 @@
-# Testez la ligne de communication avec le club. 
+# 5. Testez la ligne de communication avec le club. 
 
 Maintenant, vous allez pouvoir tester la ligne de communication avec le club. 
 
@@ -17,3 +17,6 @@ Hi <username>! You've successfully authenticated.
 ```
 
 La ligne est bien ouverte. 
+
+
+[La suite -->l](6_rendez_vous_au_club.md)
