@@ -1,4 +1,4 @@
-# Récupérer la clé pour communiquer avec Gilles. 
+# Demander à Gilles de générer une clé pour pouvoir communiquer avec le club de Cochinchines . 
 
 Pour pouvoir vous réserver votre place au "club de Cochinchines", Gilles va devoir créér une clé. Cette clé est le seul moyen de pouvoir communiquer avec le club de Cochinchines. Le seul et l'unique moyen. 
 
