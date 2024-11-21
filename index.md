@@ -20,7 +20,10 @@ Documenter, c'est difficile. Documenter, ça intéresse peu. Mais sans documenta
 
 ## Qu'est-ce que documente-marcel
 
-Au-delà de vous apprendre quelque chose de nouveau, `documente-marcel` a vocation à être un socle, un _framework_ pour construire des systèmes de documentation intelligent. Qu'est-ce qu'un système de documentation intelligent : 
+Au-delà de vous apprendre quelque chose de nouveau, `documente-marcel` a vocation à être un socle, un _framework_ pour construire des systèmes de documentation intelligent. 
+
+Une définition d'un système de documentation intelligent : 
+
 * un système dans lequel le coût cognitif de la documentation a été minimalisé  (il faut que documenter soit le plus facile possible)
 * un système dans lequel on laisse une part de liberté à `marcel`, le "documenteur" (néologisme à défaut d'avoir trouvé mieux) dans le contenu de la documentation...
 * ...mais un système dans lequel la documentation de `marcel` s'intègre dans une structure globale, de manière à ce que la documentation de `marcel` puisse dialoguer avec celle de `michel`, et avec celle de `noel`, etc. 
