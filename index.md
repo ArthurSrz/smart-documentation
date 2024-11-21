@@ -2,7 +2,7 @@
 layout: default
 title: Home
 ---
-# Bienvenue dans documente-marcel
+# Bienvenue !
 
 Documente-marcel est un repo pour apprendre une nouvelle manière de documenter. 
 
