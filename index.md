@@ -13,7 +13,7 @@ Comme l'a dit Charles Data Gaulle, dans _Le fil de l'API_
 > #### "Documentation brisée. Documentation martyrisée, mais documentation, documentation libérée"
 
 Documenter, c'est difficile. Documenter, ça intéresse peu. Mais sans documentation, on fait finalement peu de choses dans le monde de la donnée : 
-* Sans documentation, on ne peut pas gouverner des donnée
+* Sans documentation, on ne peut pas gouverner des données
 * Sans documentation, on ne peut pas créer et maintenir des bases de données
 * Sans documentation, on peut savoir d'où vient la donnée et où elle va
 * Sans documentation, on ne peut intégrer fiablement de nouvelles technologies sur les données, comme l'Intelligence Artificielle, cette technologie _underground_, mais qui va très certainement être à la mode, un jour, peut être.
