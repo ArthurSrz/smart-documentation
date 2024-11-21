@@ -27,7 +27,7 @@ Une définition d'un système de documentation intelligent :
 * un système dans lequel le coût cognitif de la documentation a été minimalisé  (il faut que documenter soit le plus facile possible)
 * un système dans lequel on laisse une part de liberté à `marcel`, le "documenteur" (néologisme à défaut d'avoir trouvé mieux) dans le contenu de la documentation...
 * ...mais un système dans lequel la documentation de `marcel` s'intègre dans une structure globale, de manière à ce que la documentation de `marcel` puisse dialoguer avec celle de `michel`, et avec celle de `noel`, etc. 
-* un système dans lequel la documentation est donc **fédérée**. Pas centralisée, pas partagée, mais **fédérée**. C'est le un pour tous et tous pour un du XXIème siècle si vous voulez.
+* un système dans lequel la documentation est donc **fédérée**. Pas centralisée, pas partagée, mais **fédérée**. Une forme de "un pour tous et tous pour un" du XXIème siècle si vous voulez.
 
 ## Comment utiliser documente-marcel ? 
 
