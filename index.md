@@ -8,7 +8,7 @@ Documente-marcel est un repo pour apprendre une nouvelle manière de documenter.
 
 ## Philosophie et inspiration
 
-Ce repo a été créé pour apprendre une nouvelle manière de documenter. Comme l'a dit Charles Data Gaulle, dans _Le fil de l'API_
+Comme l'a dit Charles Data Gaulle, dans _Le fil de l'API_
 
 > #### "Documentation brisée. Documentation martyrisée, mais documentation, documentation libérée"
 
