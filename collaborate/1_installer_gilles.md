@@ -1,6 +1,6 @@
 # 1. C'est qui Gilles ? 
 
-Gilles, c'est celui grâce auquel vous allez enfin pouvoir vous rendrez au célèbre "club de Cochinchines", grand centre de vacances où tout le monde parle à tout le monde, sans restrictions. Il y règne une grande harmonie malgré les centaines de nationalités qui s'y trouvent. 
+Gilles, c'est celui grâce auquel vous allez enfin pouvoir vous rendrez au "club Marcel", grand centre de vacances où tout le monde parle à tout le monde, sans restrictions. Il y règne une grande harmonie malgré les centaines de nationalités qui s'y trouvent. 
 
 Gilles, c'est l'organisateur des vacances, le grand planificateur. Vous ne le comprenez pas vraiment, ni vous ni personne d'ailleurs, mais tant qu'il est là, c'est le plus important. Car Gilles est le seul à pouvoir parler avec le "club de Cochinchines". 
 
