@@ -1,4 +1,4 @@
-# ...et inviter les vacanciers dans votre club.
+# 8...et inviter les vacanciers dans votre club.
 
 Vous avez monté le club, maintenant il ne reste plus qu'à y mettre les vacanciers du monde entier. 
 
@@ -13,3 +13,5 @@ Pour cela, il va falloir faire d'obsidian l'interface communicante et automatiqu
 Maintenant, vous allez pouvoir parler avec tout le monde ! 
 
 
+
+[La suite -->](9_brancher_traducteur_universel.md)
