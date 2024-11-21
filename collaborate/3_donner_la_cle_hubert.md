@@ -1,4 +1,4 @@
-# Donner la clé à Hubert, l'agent du club de Cochinchine
+# 3. Donner la clé à Hubert, l'agent du club de Cochinchine
 
 On ne vous l'avait pas encore dit, mais le club de Cochinchine est extrêmement prisé. Avec l'essor des congès payés, tout le monde veut s'y rendre, tant et si bien qu'il faut passer par un agent de réservation, Hubert, qui va s'occuper de transférer la clé généré par Gilles au club. 
 
@@ -25,3 +25,5 @@ ssh-add C:\Users\your_pseudonym\.ssh\id_ed25519
 ```
 
 Hubert a bien la clé en main. 
+
+[La suite -->](4_donner_cle_club.md)
