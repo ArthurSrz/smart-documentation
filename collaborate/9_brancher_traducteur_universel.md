@@ -12,3 +12,4 @@ Pour cela, il va falloir ajouter le plug-in git d'Obsidian :
 3. Dans `browse`, chercher "Git" 
 4. Télécharger puis activez l'extension (`Enable`)
 
+Ca y est, vous aller pouvoir parler avec des américains, des soviétiques, des allemands de l'Est, des coréens du nord, des maoistes, des taosites, des burundi, des congolais belge, tout le monde. 
