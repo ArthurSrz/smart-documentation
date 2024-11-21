@@ -2,8 +2,7 @@
 
 Vous avez fait vos bagages, mis le dernier guide Michelin dans votre malette, il ne reste plus qu'à vous rendre au club de Cochinchines, avec Simone, votre chère et tendre. 
 
-Poir cela, 
-Pur cloner le repo Gitlab relatif à la documentation : 
+Pour cela : 
 
 1. Récupérez l'URL SSH du repo 
 
