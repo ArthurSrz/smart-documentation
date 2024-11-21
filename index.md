@@ -12,7 +12,7 @@ Ce repo a été créé pour apprendre une nouvelle manière de documenter. Comme
 
 > #### "Documentation brisée. Documentation martyrisée, mais documentation, documentation libérée"
 
-Documenter, c'est difficile. Documenter,ça intéresse peu. Mais sans documentation, on fait finalement peu de choses dans le monde de la donnée : 
+Documenter, c'est difficile. Documenter, ça intéresse peu. Mais sans documentation, on fait finalement peu de choses dans le monde de la donnée : 
 * Sans documentation, on ne peut pas gouverner la donnée
 * Sans documentation, on ne peut pas créer et maintenir des bases de données
 * Sans documentation, on peut intégrer fiablement de nouvelles technologies sur les données, comme l'Intelligence Artificielle, cette technologie _underground_, mais qui va très certainement être à la mode, un jour, peut être.
@@ -27,5 +27,5 @@ Au-delà de vous apprendre qqchose de nouveau, documente-marcel a vocation à ê
 
 ## Comment utiliser documente-marcel ? 
 
-1. Vous pouvez rejoindre le club Marcel :  [je veux oui nom d'un fripin](collaborate/0_comment_rejoindre_marcel.md)
+1. Vous pouvez rejoindre le club Marcel :  [je veux oui nom d'un fripon](collaborate/0_comment_rejoindre_marcel.md)
 2. Pour comprendre Marcel : [je veux pas lire Proust, mais Marcel pourquoi pas](lis_marcel.md)
