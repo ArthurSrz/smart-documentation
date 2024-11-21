@@ -2,7 +2,7 @@
 
 1. [Installer Gilles](1_installer_gilles.md)
 2. [Demander à Gilles de générer une clé pour pouvoir communiquer avec le club de Cochinchines](2_demander_la_cle_gilles.md)
-3. [Donnez la clé à l'agent de Gilles](3_donner_la_cle_hubert.md)
+3. [Donnez la clé à Hubert, l'agent du club](3_donner_la_cle_hubert.md)
 4. [Donnez la clé au club, car Hubert a complètement oublié de le faire](4_donner_cle_club.md)
 5. [Testez la ligne de communication avec le club.](5_tester_ligne_club.md)
 6. [Rendez-vous au club](6_rendez_vous_au_club.md)
