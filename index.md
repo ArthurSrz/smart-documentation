@@ -15,7 +15,7 @@ Ce repo a été créé pour apprendre une nouvelle manière de documenter. Comme
 Documenter, c'est difficile. Documenter, ça intéresse peu. Mais sans documentation, on fait finalement peu de choses dans le monde de la donnée : 
 * Sans documentation, on ne peut pas gouverner la donnée
 * Sans documentation, on ne peut pas créer et maintenir des bases de données
-* Sans documentation, on peut intégrer fiablement de nouvelles technologies sur les données, comme l'Intelligence Artificielle, cette technologie _underground_, mais qui va très certainement être à la mode, un jour, peut être.
+* Sans documentation, on ne peut intégrer fiablement de nouvelles technologies sur les données, comme l'Intelligence Artificielle, cette technologie _underground_, mais qui va très certainement être à la mode, un jour, peut être.
 
 ## Qu'est-ce que documente-marcel
 
