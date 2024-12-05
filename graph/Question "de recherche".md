@@ -15,3 +15,5 @@ La donnée des uns sera-t-elle la donnée des autres ?
 Comment assurer une transmission de la donnée ? 
 Est-ce tout le point de la dataviz ? 
 
+Dans la question de la dataviz et de son but il y a la question de l'interaction entre l'homme et la donnée 
+
