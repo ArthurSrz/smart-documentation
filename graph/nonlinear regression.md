@@ -1,5 +1,5 @@
 ---
-opposite of: "[[graph/linear regression]]"
+opposite of: "[[linear regression]]"
 uses:
   - "[[graph/nonlinear model]]"
 wikidata_id: Q2755024

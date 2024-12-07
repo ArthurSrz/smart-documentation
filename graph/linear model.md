@@ -1,6 +1,5 @@
 ---
-used by: "[[graph/linear regression]]"
-opposite of: "[[graph/nonlinear model]]"
+opposite of: "[[nonlinear model]]"
 wikidata_id: Q3339222
 reveals:
   - "[[correlation]]"
