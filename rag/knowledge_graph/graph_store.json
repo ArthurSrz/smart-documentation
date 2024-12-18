@@ -1,0 +1,1 @@
+{"graph_dict": {"Model": [["Is", "Parent"], ["Is", "Parent"], ["Is", "Parent"]], "Type_model": [["Includes", "Classification"], ["Includes", "Clustering"], ["Includes", "Regression"], ["Is", "Regression"], ["Used for", "Prediction"], ["Is", "Regression"]], "Type_algo": [["Is", "Optimization algorithm"]]}}
